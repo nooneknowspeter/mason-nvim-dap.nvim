@@ -14,6 +14,7 @@ local M = {
   ['node-terminal'] = { 'javascriptreact', 'typescriptreact', 'typescript', 'javascript' },
   ['pwa-chrome'] = { 'javascriptreact', 'typescriptreact', 'typescript', 'javascript' },
   ['pwa-extensionHost'] = { 'javascriptreact', 'typescriptreact', 'typescript', 'javascript' },
+  ['pwa-msedge'] = { 'javascriptreact', 'typescriptreact', 'typescript', 'javascript' },
   ['pwa-node'] = { 'javascriptreact', 'typescriptreact', 'typescript', 'javascript' },
   ['kotlin'] = { 'kotlin' },
   ['mix_task'] = { 'elixir' },
