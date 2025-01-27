@@ -13,6 +13,7 @@ M.nvim_dap_to_package = {
   ['php'] = 'php-debug-adapter',
   ['coreclr'] = 'netcoredbg',
   ['js'] = 'js-debug-adapter',
+  ['node-terminal'] = 'js-debug-adapter',
   ['pwa-chrome'] = 'js-debug-adapter',
   ['pwa-node'] = 'js-debug-adapter',
   ['codelldb'] = 'codelldb',
