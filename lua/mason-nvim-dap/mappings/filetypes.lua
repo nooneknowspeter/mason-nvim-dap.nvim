@@ -12,6 +12,7 @@ local M = {
   ['firefox'] = { 'javascriptreact', 'typescriptreact', 'typescript', 'javascript' },
   ['js'] = { 'javascriptreact', 'typescriptreact', 'typescript', 'javascript' },
   ['pwa-node'] = { 'javascriptreact', 'typescriptreact', 'typescript', 'javascript' },
+  ['pwa-chrome'] = { 'javascriptreact', 'typescriptreact', 'typescript', 'javascript' },
   ['kotlin'] = { 'kotlin' },
   ['mix_task'] = { 'elixir' },
   ['node2'] = { 'javascriptreact', 'typescriptreact', 'typescript', 'javascript' },
