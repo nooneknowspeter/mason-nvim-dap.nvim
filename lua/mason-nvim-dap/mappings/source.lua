@@ -16,6 +16,7 @@ M.nvim_dap_to_package = {
   ['node-terminal'] = 'js-debug-adapter',
   ['pwa-chrome'] = 'js-debug-adapter',
   ['pwa-extensionHost'] = 'js-debug-adapter',
+  ['pwa-msedge'] = 'js-debug-adapter',
   ['pwa-node'] = 'js-debug-adapter',
   ['codelldb'] = 'codelldb',
   ['bash'] = 'bash-debug-adapter',
