@@ -11,6 +11,7 @@ local M = {
   ['delve'] = { 'go' },
   ['firefox'] = { 'javascriptreact', 'typescriptreact', 'typescript', 'javascript' },
   ['js'] = { 'javascriptreact', 'typescriptreact', 'typescript', 'javascript' },
+  ['node-terminal'] = { 'javascriptreact', 'typescriptreact', 'typescript', 'javascript' },
   ['pwa-chrome'] = { 'javascriptreact', 'typescriptreact', 'typescript', 'javascript' },
   ['pwa-node'] = { 'javascriptreact', 'typescriptreact', 'typescript', 'javascript' },
   ['kotlin'] = { 'kotlin' },
