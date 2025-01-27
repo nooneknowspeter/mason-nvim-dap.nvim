@@ -14,6 +14,7 @@ M.nvim_dap_to_package = {
   ['coreclr'] = 'netcoredbg',
   ['js'] = 'js-debug-adapter',
   ['pwa-chrome'] = 'js-debug-adapter',
+  ['pwa-node'] = 'js-debug-adapter',
   ['codelldb'] = 'codelldb',
   ['bash'] = 'bash-debug-adapter',
   ['javadbg'] = 'java-debug-adapter',
