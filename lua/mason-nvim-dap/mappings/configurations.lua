@@ -85,6 +85,21 @@ M.codelldb = {
   },
 }
 
+M.lldb = {
+  {
+    name = 'LLDB: Launch',
+    type = 'lldb',
+    request = 'launch',
+    program = function()
+      return vim.fn.input('Path to executable: ', vim.fn.getcwd() .. '/', 'file')
+    end,
+    cwd = '${workspaceFolder}',
+    stopOnEntry = false,
+    args = {},
+    console = 'integratedTerminal',
+  },
+}
+
 M.node2 = {
   {
     name = 'Node2: Launch',
