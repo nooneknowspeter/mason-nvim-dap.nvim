@@ -5,6 +5,7 @@ local M = {
   ['bash'] = { 'sh' },
   ['chrome'] = { 'javascriptreact', 'typescriptreact', 'typescript', 'javascript' },
   ['codelldb'] = { 'c', 'cpp', 'rust', 'swift', 'zig' },
+  ['lldb'] = { 'c', 'cpp', 'rust', 'swift', 'zig' },
   ['coreclr'] = { 'cs', 'fsharp' },
   ['cppdbg'] = { 'c', 'cpp', 'rust', 'asm', 'swift' },
   ['dart'] = { 'dart' },
