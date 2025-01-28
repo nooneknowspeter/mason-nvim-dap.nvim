@@ -19,6 +19,7 @@ M.nvim_dap_to_package = {
   ['pwa-msedge'] = 'js-debug-adapter',
   ['pwa-node'] = 'js-debug-adapter',
   ['codelldb'] = 'codelldb',
+  ['lldb'] = 'codelldb',
   ['bash'] = 'bash-debug-adapter',
   ['javadbg'] = 'java-debug-adapter',
   ['javatest'] = 'java-test',
